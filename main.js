@@ -54,5 +54,5 @@ function helloWorld(){
                 word.charAt(i) = 4;
             }
         }
-        console.log(word);
+        return(word);
     }
